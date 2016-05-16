@@ -1,5 +1,5 @@
 # Pester and VirusTotal
-The idea behind this was to use Pester to validate files in your Deployment Pipeline.
+The initial idea behind this was to use Pester to validate files in your Deployment Pipeline, but this can easily be expanded in many directions.
 
 ## VirusTotal ApiKey
 VirusTotal requires a Public or Private ApiKey to use it's api. You can signup for an Apikey at the following url: [VirusTotal Signup](https://www.virustotal.com/en/#signup)
